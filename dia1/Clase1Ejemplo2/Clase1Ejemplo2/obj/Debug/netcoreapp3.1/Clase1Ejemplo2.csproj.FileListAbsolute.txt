@@ -1,0 +1,11 @@
+C:\Users\luis\source\repos\Clase1Ejemplo2\Clase1Ejemplo2\bin\Debug\netcoreapp3.1\Clase1Ejemplo2.exe
+C:\Users\luis\source\repos\Clase1Ejemplo2\Clase1Ejemplo2\bin\Debug\netcoreapp3.1\Clase1Ejemplo2.deps.json
+C:\Users\luis\source\repos\Clase1Ejemplo2\Clase1Ejemplo2\bin\Debug\netcoreapp3.1\Clase1Ejemplo2.runtimeconfig.json
+C:\Users\luis\source\repos\Clase1Ejemplo2\Clase1Ejemplo2\bin\Debug\netcoreapp3.1\Clase1Ejemplo2.runtimeconfig.dev.json
+C:\Users\luis\source\repos\Clase1Ejemplo2\Clase1Ejemplo2\bin\Debug\netcoreapp3.1\Clase1Ejemplo2.dll
+C:\Users\luis\source\repos\Clase1Ejemplo2\Clase1Ejemplo2\bin\Debug\netcoreapp3.1\Clase1Ejemplo2.pdb
+C:\Users\luis\source\repos\Clase1Ejemplo2\Clase1Ejemplo2\obj\Debug\netcoreapp3.1\Clase1Ejemplo2.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Clase1Ejemplo2\Clase1Ejemplo2\obj\Debug\netcoreapp3.1\Clase1Ejemplo2.AssemblyInfoInputs.cache
+C:\Users\luis\source\repos\Clase1Ejemplo2\Clase1Ejemplo2\obj\Debug\netcoreapp3.1\Clase1Ejemplo2.AssemblyInfo.cs
+C:\Users\luis\source\repos\Clase1Ejemplo2\Clase1Ejemplo2\obj\Debug\netcoreapp3.1\Clase1Ejemplo2.dll
+C:\Users\luis\source\repos\Clase1Ejemplo2\Clase1Ejemplo2\obj\Debug\netcoreapp3.1\Clase1Ejemplo2.pdb

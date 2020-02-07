@@ -1,0 +1,11 @@
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\dia2\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.exe
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\dia2\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.deps.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\dia2\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\dia2\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.dev.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\dia2\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\dia2\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.pdb
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\dia2\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.csprojAssemblyReference.cache
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\dia2\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfoInputs.cache
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\dia2\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfo.cs
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\dia2\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\dia2\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.pdb

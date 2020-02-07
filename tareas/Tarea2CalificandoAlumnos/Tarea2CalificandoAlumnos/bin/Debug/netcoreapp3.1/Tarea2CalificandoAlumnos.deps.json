@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tarea2CalificandoAlumnos/1.0.0": {
+        "runtime": {
+          "Tarea2CalificandoAlumnos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea2CalificandoAlumnos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\Tarea2CalificandoAlumnos\Tarea2CalificandoAlumnos\obj\Debug\netcoreapp3.1\Tarea2CalificandoAlumnos.csprojAssemblyReference.cache
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\Tarea2CalificandoAlumnos\Tarea2CalificandoAlumnos\obj\Debug\netcoreapp3.1\Tarea2CalificandoAlumnos.AssemblyInfoInputs.cache
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\Tarea2CalificandoAlumnos\Tarea2CalificandoAlumnos\obj\Debug\netcoreapp3.1\Tarea2CalificandoAlumnos.AssemblyInfo.cs
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\Tarea2CalificandoAlumnos\Tarea2CalificandoAlumnos\bin\Debug\netcoreapp3.1\Tarea2CalificandoAlumnos.exe
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\Tarea2CalificandoAlumnos\Tarea2CalificandoAlumnos\bin\Debug\netcoreapp3.1\Tarea2CalificandoAlumnos.deps.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\Tarea2CalificandoAlumnos\Tarea2CalificandoAlumnos\bin\Debug\netcoreapp3.1\Tarea2CalificandoAlumnos.runtimeconfig.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\Tarea2CalificandoAlumnos\Tarea2CalificandoAlumnos\bin\Debug\netcoreapp3.1\Tarea2CalificandoAlumnos.runtimeconfig.dev.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\Tarea2CalificandoAlumnos\Tarea2CalificandoAlumnos\bin\Debug\netcoreapp3.1\Tarea2CalificandoAlumnos.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\Tarea2CalificandoAlumnos\Tarea2CalificandoAlumnos\bin\Debug\netcoreapp3.1\Tarea2CalificandoAlumnos.pdb
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\Tarea2CalificandoAlumnos\Tarea2CalificandoAlumnos\obj\Debug\netcoreapp3.1\Tarea2CalificandoAlumnos.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\Tarea2CalificandoAlumnos\Tarea2CalificandoAlumnos\obj\Debug\netcoreapp3.1\Tarea2CalificandoAlumnos.pdb

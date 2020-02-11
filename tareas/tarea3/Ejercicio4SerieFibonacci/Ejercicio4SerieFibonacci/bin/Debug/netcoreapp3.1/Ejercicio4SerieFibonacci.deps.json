@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ejercicio4SerieFibonacci/1.0.0": {
+        "runtime": {
+          "Ejercicio4SerieFibonacci.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio4SerieFibonacci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

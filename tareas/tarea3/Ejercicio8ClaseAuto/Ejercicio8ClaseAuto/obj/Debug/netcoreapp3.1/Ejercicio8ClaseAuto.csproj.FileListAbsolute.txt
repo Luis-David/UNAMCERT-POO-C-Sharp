@@ -1,0 +1,11 @@
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio8ClaseAuto\Ejercicio8ClaseAuto\bin\Debug\netcoreapp3.1\Ejercicio8ClaseAuto.exe
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio8ClaseAuto\Ejercicio8ClaseAuto\bin\Debug\netcoreapp3.1\Ejercicio8ClaseAuto.deps.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio8ClaseAuto\Ejercicio8ClaseAuto\bin\Debug\netcoreapp3.1\Ejercicio8ClaseAuto.runtimeconfig.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio8ClaseAuto\Ejercicio8ClaseAuto\bin\Debug\netcoreapp3.1\Ejercicio8ClaseAuto.runtimeconfig.dev.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio8ClaseAuto\Ejercicio8ClaseAuto\bin\Debug\netcoreapp3.1\Ejercicio8ClaseAuto.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio8ClaseAuto\Ejercicio8ClaseAuto\bin\Debug\netcoreapp3.1\Ejercicio8ClaseAuto.pdb
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio8ClaseAuto\Ejercicio8ClaseAuto\obj\Debug\netcoreapp3.1\Ejercicio8ClaseAuto.csprojAssemblyReference.cache
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio8ClaseAuto\Ejercicio8ClaseAuto\obj\Debug\netcoreapp3.1\Ejercicio8ClaseAuto.AssemblyInfoInputs.cache
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio8ClaseAuto\Ejercicio8ClaseAuto\obj\Debug\netcoreapp3.1\Ejercicio8ClaseAuto.AssemblyInfo.cs
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio8ClaseAuto\Ejercicio8ClaseAuto\obj\Debug\netcoreapp3.1\Ejercicio8ClaseAuto.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio8ClaseAuto\Ejercicio8ClaseAuto\obj\Debug\netcoreapp3.1\Ejercicio8ClaseAuto.pdb

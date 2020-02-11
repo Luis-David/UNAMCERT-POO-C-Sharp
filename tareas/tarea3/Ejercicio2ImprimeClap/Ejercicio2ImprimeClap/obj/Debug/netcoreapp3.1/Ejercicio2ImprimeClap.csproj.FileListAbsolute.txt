@@ -1,0 +1,11 @@
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio2ImprimeClap\Ejercicio2ImprimeClap\bin\Debug\netcoreapp3.1\Ejercicio2ImprimeClap.exe
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio2ImprimeClap\Ejercicio2ImprimeClap\bin\Debug\netcoreapp3.1\Ejercicio2ImprimeClap.deps.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio2ImprimeClap\Ejercicio2ImprimeClap\bin\Debug\netcoreapp3.1\Ejercicio2ImprimeClap.runtimeconfig.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio2ImprimeClap\Ejercicio2ImprimeClap\bin\Debug\netcoreapp3.1\Ejercicio2ImprimeClap.runtimeconfig.dev.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio2ImprimeClap\Ejercicio2ImprimeClap\bin\Debug\netcoreapp3.1\Ejercicio2ImprimeClap.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio2ImprimeClap\Ejercicio2ImprimeClap\bin\Debug\netcoreapp3.1\Ejercicio2ImprimeClap.pdb
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio2ImprimeClap\Ejercicio2ImprimeClap\obj\Debug\netcoreapp3.1\Ejercicio2ImprimeClap.AssemblyInfoInputs.cache
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio2ImprimeClap\Ejercicio2ImprimeClap\obj\Debug\netcoreapp3.1\Ejercicio2ImprimeClap.AssemblyInfo.cs
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio2ImprimeClap\Ejercicio2ImprimeClap\obj\Debug\netcoreapp3.1\Ejercicio2ImprimeClap.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio2ImprimeClap\Ejercicio2ImprimeClap\obj\Debug\netcoreapp3.1\Ejercicio2ImprimeClap.pdb
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio2ImprimeClap\Ejercicio2ImprimeClap\obj\Debug\netcoreapp3.1\Ejercicio2ImprimeClap.csprojAssemblyReference.cache

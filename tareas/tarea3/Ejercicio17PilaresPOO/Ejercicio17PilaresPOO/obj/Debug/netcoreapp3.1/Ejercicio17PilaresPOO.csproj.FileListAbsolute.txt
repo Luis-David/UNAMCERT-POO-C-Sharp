@@ -1,0 +1,11 @@
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio17PilaresPOO\Ejercicio17PilaresPOO\obj\Debug\netcoreapp3.1\Ejercicio17PilaresPOO.csprojAssemblyReference.cache
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio17PilaresPOO\Ejercicio17PilaresPOO\obj\Debug\netcoreapp3.1\Ejercicio17PilaresPOO.AssemblyInfoInputs.cache
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio17PilaresPOO\Ejercicio17PilaresPOO\obj\Debug\netcoreapp3.1\Ejercicio17PilaresPOO.AssemblyInfo.cs
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio17PilaresPOO\Ejercicio17PilaresPOO\bin\Debug\netcoreapp3.1\Ejercicio17PilaresPOO.exe
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio17PilaresPOO\Ejercicio17PilaresPOO\bin\Debug\netcoreapp3.1\Ejercicio17PilaresPOO.deps.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio17PilaresPOO\Ejercicio17PilaresPOO\bin\Debug\netcoreapp3.1\Ejercicio17PilaresPOO.runtimeconfig.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio17PilaresPOO\Ejercicio17PilaresPOO\bin\Debug\netcoreapp3.1\Ejercicio17PilaresPOO.runtimeconfig.dev.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio17PilaresPOO\Ejercicio17PilaresPOO\bin\Debug\netcoreapp3.1\Ejercicio17PilaresPOO.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio17PilaresPOO\Ejercicio17PilaresPOO\bin\Debug\netcoreapp3.1\Ejercicio17PilaresPOO.pdb
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio17PilaresPOO\Ejercicio17PilaresPOO\obj\Debug\netcoreapp3.1\Ejercicio17PilaresPOO.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio17PilaresPOO\Ejercicio17PilaresPOO\obj\Debug\netcoreapp3.1\Ejercicio17PilaresPOO.pdb

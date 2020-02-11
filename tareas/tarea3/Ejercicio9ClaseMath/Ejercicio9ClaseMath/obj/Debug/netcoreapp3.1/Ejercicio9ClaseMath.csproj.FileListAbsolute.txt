@@ -1,0 +1,11 @@
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio9ClaseMath\Ejercicio9ClaseMath\bin\Debug\netcoreapp3.1\Ejercicio9ClaseMath.exe
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio9ClaseMath\Ejercicio9ClaseMath\bin\Debug\netcoreapp3.1\Ejercicio9ClaseMath.deps.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio9ClaseMath\Ejercicio9ClaseMath\bin\Debug\netcoreapp3.1\Ejercicio9ClaseMath.runtimeconfig.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio9ClaseMath\Ejercicio9ClaseMath\bin\Debug\netcoreapp3.1\Ejercicio9ClaseMath.runtimeconfig.dev.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio9ClaseMath\Ejercicio9ClaseMath\bin\Debug\netcoreapp3.1\Ejercicio9ClaseMath.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio9ClaseMath\Ejercicio9ClaseMath\bin\Debug\netcoreapp3.1\Ejercicio9ClaseMath.pdb
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio9ClaseMath\Ejercicio9ClaseMath\obj\Debug\netcoreapp3.1\Ejercicio9ClaseMath.csprojAssemblyReference.cache
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio9ClaseMath\Ejercicio9ClaseMath\obj\Debug\netcoreapp3.1\Ejercicio9ClaseMath.AssemblyInfoInputs.cache
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio9ClaseMath\Ejercicio9ClaseMath\obj\Debug\netcoreapp3.1\Ejercicio9ClaseMath.AssemblyInfo.cs
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio9ClaseMath\Ejercicio9ClaseMath\obj\Debug\netcoreapp3.1\Ejercicio9ClaseMath.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio9ClaseMath\Ejercicio9ClaseMath\obj\Debug\netcoreapp3.1\Ejercicio9ClaseMath.pdb

@@ -1,0 +1,10 @@
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio7NumeroComplejo\Ejercicio7NumeroComplejo\bin\Debug\netcoreapp3.1\Ejercicio7NumeroComplejo.exe
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio7NumeroComplejo\Ejercicio7NumeroComplejo\bin\Debug\netcoreapp3.1\Ejercicio7NumeroComplejo.deps.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio7NumeroComplejo\Ejercicio7NumeroComplejo\bin\Debug\netcoreapp3.1\Ejercicio7NumeroComplejo.runtimeconfig.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio7NumeroComplejo\Ejercicio7NumeroComplejo\bin\Debug\netcoreapp3.1\Ejercicio7NumeroComplejo.runtimeconfig.dev.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio7NumeroComplejo\Ejercicio7NumeroComplejo\bin\Debug\netcoreapp3.1\Ejercicio7NumeroComplejo.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio7NumeroComplejo\Ejercicio7NumeroComplejo\bin\Debug\netcoreapp3.1\Ejercicio7NumeroComplejo.pdb
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio7NumeroComplejo\Ejercicio7NumeroComplejo\obj\Debug\netcoreapp3.1\Ejercicio7NumeroComplejo.AssemblyInfoInputs.cache
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio7NumeroComplejo\Ejercicio7NumeroComplejo\obj\Debug\netcoreapp3.1\Ejercicio7NumeroComplejo.AssemblyInfo.cs
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio7NumeroComplejo\Ejercicio7NumeroComplejo\obj\Debug\netcoreapp3.1\Ejercicio7NumeroComplejo.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio7NumeroComplejo\Ejercicio7NumeroComplejo\obj\Debug\netcoreapp3.1\Ejercicio7NumeroComplejo.pdb

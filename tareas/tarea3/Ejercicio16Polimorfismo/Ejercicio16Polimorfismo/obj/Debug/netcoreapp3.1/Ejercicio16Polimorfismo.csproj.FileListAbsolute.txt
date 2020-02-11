@@ -1,0 +1,11 @@
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio16Polimorfismo\Ejercicio16Polimorfismo\bin\Debug\netcoreapp3.1\Ejercicio16Polimorfismo.exe
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio16Polimorfismo\Ejercicio16Polimorfismo\bin\Debug\netcoreapp3.1\Ejercicio16Polimorfismo.deps.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio16Polimorfismo\Ejercicio16Polimorfismo\bin\Debug\netcoreapp3.1\Ejercicio16Polimorfismo.runtimeconfig.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio16Polimorfismo\Ejercicio16Polimorfismo\bin\Debug\netcoreapp3.1\Ejercicio16Polimorfismo.runtimeconfig.dev.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio16Polimorfismo\Ejercicio16Polimorfismo\bin\Debug\netcoreapp3.1\Ejercicio16Polimorfismo.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio16Polimorfismo\Ejercicio16Polimorfismo\bin\Debug\netcoreapp3.1\Ejercicio16Polimorfismo.pdb
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio16Polimorfismo\Ejercicio16Polimorfismo\obj\Debug\netcoreapp3.1\Ejercicio16Polimorfismo.csprojAssemblyReference.cache
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio16Polimorfismo\Ejercicio16Polimorfismo\obj\Debug\netcoreapp3.1\Ejercicio16Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio16Polimorfismo\Ejercicio16Polimorfismo\obj\Debug\netcoreapp3.1\Ejercicio16Polimorfismo.AssemblyInfo.cs
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio16Polimorfismo\Ejercicio16Polimorfismo\obj\Debug\netcoreapp3.1\Ejercicio16Polimorfismo.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio16Polimorfismo\Ejercicio16Polimorfismo\obj\Debug\netcoreapp3.1\Ejercicio16Polimorfismo.pdb

@@ -1,0 +1,11 @@
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio18Archivos\Ejercicio18Archivos\bin\Debug\netcoreapp3.1\Ejercicio18Archivos.exe
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio18Archivos\Ejercicio18Archivos\bin\Debug\netcoreapp3.1\Ejercicio18Archivos.deps.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio18Archivos\Ejercicio18Archivos\bin\Debug\netcoreapp3.1\Ejercicio18Archivos.runtimeconfig.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio18Archivos\Ejercicio18Archivos\bin\Debug\netcoreapp3.1\Ejercicio18Archivos.runtimeconfig.dev.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio18Archivos\Ejercicio18Archivos\bin\Debug\netcoreapp3.1\Ejercicio18Archivos.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio18Archivos\Ejercicio18Archivos\bin\Debug\netcoreapp3.1\Ejercicio18Archivos.pdb
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio18Archivos\Ejercicio18Archivos\obj\Debug\netcoreapp3.1\Ejercicio18Archivos.csprojAssemblyReference.cache
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio18Archivos\Ejercicio18Archivos\obj\Debug\netcoreapp3.1\Ejercicio18Archivos.AssemblyInfoInputs.cache
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio18Archivos\Ejercicio18Archivos\obj\Debug\netcoreapp3.1\Ejercicio18Archivos.AssemblyInfo.cs
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio18Archivos\Ejercicio18Archivos\obj\Debug\netcoreapp3.1\Ejercicio18Archivos.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio18Archivos\Ejercicio18Archivos\obj\Debug\netcoreapp3.1\Ejercicio18Archivos.pdb

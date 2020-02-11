@@ -1,0 +1,10 @@
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio15CalculadoraDosNumeros\Ejercicio15CalculadoraDosNumeros\bin\Debug\netcoreapp3.1\Ejercicio15CalculadoraDosNumeros.exe
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio15CalculadoraDosNumeros\Ejercicio15CalculadoraDosNumeros\bin\Debug\netcoreapp3.1\Ejercicio15CalculadoraDosNumeros.deps.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio15CalculadoraDosNumeros\Ejercicio15CalculadoraDosNumeros\bin\Debug\netcoreapp3.1\Ejercicio15CalculadoraDosNumeros.runtimeconfig.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio15CalculadoraDosNumeros\Ejercicio15CalculadoraDosNumeros\bin\Debug\netcoreapp3.1\Ejercicio15CalculadoraDosNumeros.runtimeconfig.dev.json
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio15CalculadoraDosNumeros\Ejercicio15CalculadoraDosNumeros\bin\Debug\netcoreapp3.1\Ejercicio15CalculadoraDosNumeros.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio15CalculadoraDosNumeros\Ejercicio15CalculadoraDosNumeros\bin\Debug\netcoreapp3.1\Ejercicio15CalculadoraDosNumeros.pdb
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio15CalculadoraDosNumeros\Ejercicio15CalculadoraDosNumeros\obj\Debug\netcoreapp3.1\Ejercicio15CalculadoraDosNumeros.AssemblyInfoInputs.cache
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio15CalculadoraDosNumeros\Ejercicio15CalculadoraDosNumeros\obj\Debug\netcoreapp3.1\Ejercicio15CalculadoraDosNumeros.AssemblyInfo.cs
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio15CalculadoraDosNumeros\Ejercicio15CalculadoraDosNumeros\obj\Debug\netcoreapp3.1\Ejercicio15CalculadoraDosNumeros.dll
+C:\Users\luis\Documents\Curso C#\UNAMCERT-POO-C-Sharp\tareas\tarea3\Ejercicio15CalculadoraDosNumeros\Ejercicio15CalculadoraDosNumeros\obj\Debug\netcoreapp3.1\Ejercicio15CalculadoraDosNumeros.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ejercicio15CalculadoraDosNumeros/1.0.0": {
+        "runtime": {
+          "Ejercicio15CalculadoraDosNumeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio15CalculadoraDosNumeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

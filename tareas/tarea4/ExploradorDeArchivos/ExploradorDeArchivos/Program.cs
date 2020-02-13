@@ -6,30 +6,26 @@ namespace ExploradorDeArchivos
     {
         static void Main(string[] args)
         {
-            DirectoryInfo d = new DirectoryInfo("C:\\Users\\luis\\Documents");
-
-            Uri r = new Uri("C:\\Users\\luis\\Documents\\passwifi.txt");
-            Console.WriteLine("l1: " + r.ToString());
-            Console.WriteLine("l2: " + r.OriginalString);
-            Console.WriteLine("l2: "+Path.GetPathRoot(r.OriginalString));
-            Console.WriteLine("l1: " + Path.IsPathFullyQualified("C:\\Users\\luis\\Documents"));
-            Console.WriteLine("l1: " + Path.IsPathRooted("C:\\**dasd"));
-            Console.WriteLine("l221:extension " + Path.HasExtension("C:\\Users\\luis\\Documents"));
-            Console.WriteLine("l221:extension 2" + Path.HasExtension("C:\\Users\\luis\\Documents\\passwifi.txt"));
-            Console.WriteLine("l221: path padre: " + Directory.GetParent("C:\\hola\\dos").ToString());
-            Console.WriteLine("l122: nombrearchivo " + Path.GetFileName("C:\\Users\\luis\\Documents"));
-            Console.WriteLine("l222: "+Path.GetDirectoryName(r.OriginalString));
-            foreach (var f2 in d.GetFiles())
-            {
-                Console.WriteLine(f2.Name);
-                if (f2.Name.Equals("Ciencia_Sin_Seso.pdf"))
+            string carpetaDocumets = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
+            Consola consola = new Consola(carpetaDocumets);
+            
+            string instruccion="";
+            do {
+                consola.imprimirPrompt();
+                instruccion = Console.ReadLine();
+                try
                 {
-                    Console.WriteLine("Elimino el archivo");
-
-                    f2.CopyTo("C:\\Users\\luis\\Pictures\\copia.pdf");
+                    if (instruccion.Equals("exit"))
+                    {
+                        break;
+                    }
+                    Console.WriteLine(consola.esValidoComando(instruccion));
                 }
-            }
-
+                catch(ExcepcionComandoNoEncontrado e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+            } while (true);
         }
     }
 }

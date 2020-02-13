@@ -8,6 +8,7 @@ namespace ExploradorDeArchivos
     {
         string ruta;
         FileInfo[] archivos;
+        DirectoryInfo[] directorios;
         public Directorio(){ }
         public Directorio(string ruta)
         {
@@ -19,14 +20,19 @@ namespace ExploradorDeArchivos
         public string Ruta{
             get { return ruta; }
             set {
-                DirectoryInfo d = new DirectoryInfo(ruta);
+                DirectoryInfo d = new DirectoryInfo(value);
                 archivos = d.GetFiles();
+                directorios = d.GetDirectories();
                 ruta = value; 
             }
         }
         public FileInfo[] Archivos
         {
             get { return archivos; }
+        }
+        public DirectoryInfo[] Directorios
+        {
+            get { return directorios; }
         }
         public FileInfo getArchivo(string nombre)
         {

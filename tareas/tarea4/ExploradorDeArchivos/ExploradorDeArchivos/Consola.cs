@@ -8,11 +8,28 @@ namespace ExploradorDeArchivos
     {
         Directorio directorioActual;
         List<string> historia;
-
+        List<Comando> comandos;
         public Consola(string ruta)
         {
             directorioActual = new Directorio(ruta);
             historia = new List<string>();
+            comandos = new List<Comando>();
+            string[] lc1 = { "history", "exit", "cls", "dir" };
+            string[] lc2 = { "touch", "cd" };
+            string[] lc3 = { "cp", "move" };
+            foreach(var c in lc1)
+            {
+                comandos.Add(new Comando(c, 0));
+            }
+            foreach (var c in lc2)
+            {
+                comandos.Add(new Comando(c, 1));
+            }
+            foreach (var c in lc3)
+            {
+                comandos.Add(new Comando(c, 2));
+            }
+
         }
         Directorio Directorio
         {
@@ -22,9 +39,19 @@ namespace ExploradorDeArchivos
         
         public void listarArchivos()
         {
+            Console.WriteLine("---------------------  Carpetas ---------------------");
+            foreach (var d in directorioActual.Directorios)
+            {
+                Console.WriteLine(d.Name);
+            }
+            Console.WriteLine("---------------------  Archivos ---------------------");
             foreach (var f in directorioActual.Archivos) { 
                 Console.WriteLine(f.Name);
             }
+        }
+        public void limpiarConsola()
+        {
+            Console.Clear();
         }
         public void eliminarArchivo(string ruta)
         {
@@ -54,10 +81,11 @@ namespace ExploradorDeArchivos
         public void moverArchivo(string nombre,string ruta)
         {
             FileInfo f = directorioActual.getArchivo(nombre);
-            if (f != null)
+            try
             {
-                try
+                if (f != null)
                 {
+               
                     if (!Path.HasExtension(ruta))
                     {
                         ruta += "\\" + nombre;
@@ -65,68 +93,78 @@ namespace ExploradorDeArchivos
                     f.MoveTo(ruta);
                     Console.WriteLine("Se movio correctamente el archivo.");
                 }
-                catch(DirectoryNotFoundException e)
+                else
                 {
-                    Console.WriteLine(e.Message);
+                    string r = Path.GetFullPath(nombre);
+                    string nom = Path.GetFileName(nombre);
+                    Directorio directorio = new Directorio(r);
+                    f = directorio.getArchivo(nom);
+                    if (f != null)
+                    {
+                        if (!Path.HasExtension(ruta))
+                        {
+                            ruta += "\\" + nombre;
+                        }
+                        f.MoveTo(ruta);
+                        Console.WriteLine("Se elimino el archivo {0}", nombre);
+
+                    }
+                    else
+                        Console.WriteLine("Error: No existe el archivo {0} ", nombre);
                 }
             }
-            else
+            catch (DirectoryNotFoundException e)
             {
-                string r = Path.GetFullPath(nombre);
-                string nom = Path.GetFileName(nombre);
-                Directorio directorio = new Directorio(r);
-                f = directorio.getArchivo(nom);
-                if (f != null)
-                {
-                    if (!Path.HasExtension(ruta))
-                    {
-                        ruta += "\\" + nombre;
-                    }
-                    f.MoveTo(ruta);
-                    Console.WriteLine("Se elimino el archivo {0}", nombre);
-
-                }
-                else
-                    Console.WriteLine("Error: No existe el archivo {0} ", nombre);
+                Console.WriteLine(e.Message);
+            }
+            catch (UnauthorizedAccessException e)
+            {
+                Console.WriteLine(e.Message);
             }
         }
         public void copiarArchivo(string nombre, string ruta)
         {
             FileInfo f = directorioActual.getArchivo(nombre);
-            if (f != null)
+            try
             {
-                try
+                if (f != null)
                 {
+
                     if (!Path.HasExtension(ruta))
                     {
                         ruta += "\\" + nombre;
                     }
                     f.CopyTo(ruta);
                     Console.WriteLine("Se movio correctamente el archivo.");
-                }
-                catch (DirectoryNotFoundException e)
-                {
-                    Console.WriteLine(e.Message);
-                }
-            }
-            else
-            {
-                string r = Path.GetFullPath(nombre);
-                string nom = Path.GetFileName(nombre);
-                Directorio directorio = new Directorio(r);
-                f = directorio.getArchivo(nom);
-                if (f != null)
-                {
-                    if (!Path.HasExtension(ruta))
-                    {
-                        ruta += "\\" + nombre;
-                    }
-                    f.CopyTo(ruta);
-                    Console.WriteLine("Se elimino el archivo {0}", nombre);
 
                 }
                 else
-                    Console.WriteLine("Error: No existe el archivo {0} ", nombre);
+                {
+                    string r = Path.GetFullPath(nombre);
+                    string nom = Path.GetFileName(nombre);
+                    Directorio directorio = new Directorio(r);
+                    f = directorio.getArchivo(nom);
+                    if (f != null)
+                    {
+                        if (!Path.HasExtension(ruta))
+                        {
+                            ruta += "\\" + nombre;
+                        }
+                        f.CopyTo(ruta);
+                        Console.WriteLine("Se elimino el archivo {0}", nombre);
+
+                    }
+                    else
+                        Console.WriteLine("Error: No existe el archivo {0} ", nombre);
+                }
+            }
+            catch (DirectoryNotFoundException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            catch (UnauthorizedAccessException e)
+            {
+                Console.WriteLine(e.Message);
             }
         }
         public void irADirectorioPadre()
@@ -149,7 +187,7 @@ namespace ExploradorDeArchivos
         }
         public void imprimirPrompt()
         {
-            Console.WriteLine(directorioActual.Ruta + "> ");
+            Console.Write(directorioActual.Ruta + "> ");
         }
         public void agregarRegistroComando(string c)
         {
@@ -161,6 +199,31 @@ namespace ExploradorDeArchivos
             {
                 Console.WriteLine(c);
             }
+        }
+        public int esValidoComando(string instruccion)
+        {
+            string[] tokens = instruccion.Split(" ");
+            string comando = tokens[0].ToLower();
+            int nArgumentos = tokens.Length - 1;
+            int i = 0;
+            foreach(var c in comandos)
+            {
+                if (c.Nombre.Equals(comando))
+                {
+                    if (c.Equals(new Comando(comando, nArgumentos)))
+                    {
+                        ArraySegment<string> argumentos = new ArraySegment<string>(tokens,1,tokens.Length-1);
+                        if (c.sonValidoArgumentos(argumentos.ToArray()))
+                        {
+                            return i;
+                        }
+                    }
+                    else
+                        throw new Exception("Tiene demasiados argumentos, solo se requieren "+c.NArgumentos);
+                }
+                i++;
+            }
+            throw new ExcepcionComandoNoEncontrado(string.Format("El comando \"{0}\" no es reconocido por esta consola.",comando));
         }
 
     }

@@ -26,6 +26,10 @@ namespace ExploradorDeArchivos
                 ruta = value; 
             }
         }
+        public void actualizarDirectorios()
+        {
+            Ruta = ruta;
+        }
         public FileInfo[] Archivos
         {
             get { return archivos; }

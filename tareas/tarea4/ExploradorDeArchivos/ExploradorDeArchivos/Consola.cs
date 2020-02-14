@@ -135,8 +135,7 @@ namespace ExploradorDeArchivos
                         ruta += "\\" + nombre;
                     }
                     f.CopyTo(ruta);
-                    Console.WriteLine("Se movio correctamente el archivo.");
-
+                    Console.WriteLine("Se copio correctamente el archivo.");
                 }
                 else
                 {
@@ -151,8 +150,7 @@ namespace ExploradorDeArchivos
                             ruta += "\\" + nombre;
                         }
                         f.CopyTo(ruta);
-                        Console.WriteLine("Se elimino el archivo {0}", nombre);
-
+                        Console.WriteLine("Se copio correctamente el archivo {0}", nombre);
                     }
                     else
                         Console.WriteLine("Error: No existe el archivo {0} ", nombre);
@@ -200,11 +198,19 @@ namespace ExploradorDeArchivos
                 Console.WriteLine(c);
             }
         }
-        public int esValidoComando(string instruccion)
+        public void crearArchivo(string ruta)
         {
-            string[] tokens = instruccion.Split(" ");
-            string comando = tokens[0].ToLower();
-            int nArgumentos = tokens.Length - 1;
+            if (!Path.GetPathRoot(ruta).Equals(""))
+                File.Create(ruta);
+            else
+            {
+                File.Create(Path.Join(directorioActual.Ruta, ruta));
+                directorioActual.actualizarDirectorios();
+            }
+        }
+        public int esValidoComando(string comando,string[] argumentos)
+        {
+            int nArgumentos = argumentos!=null ? argumentos.Length :0;
             int i = 0;
             foreach(var c in comandos)
             {
@@ -212,18 +218,22 @@ namespace ExploradorDeArchivos
                 {
                     if (c.Equals(new Comando(comando, nArgumentos)))
                     {
-                        ArraySegment<string> argumentos = new ArraySegment<string>(tokens,1,tokens.Length-1);
-                        if (c.sonValidoArgumentos(argumentos.ToArray()))
-                        {
-                            return i;
-                        }
+                        return i;
                     }
                     else
-                        throw new Exception("Tiene demasiados argumentos, solo se requieren "+c.NArgumentos);
+                    {
+                        if(c.NArgumentos<nArgumentos)
+                            throw new ExcepcionNumArgumentos("Tiene demasiados argumentos, solo se requieren " + c.NArgumentos);
+                        else
+                            throw new ExcepcionNumArgumentos("Tiene pocos argumentos, se requieren " + c.NArgumentos);
+
+                    }
                 }
                 i++;
             }
-            throw new ExcepcionComandoNoEncontrado(string.Format("El comando \"{0}\" no es reconocido por esta consola.",comando));
+            if(comando.Length!=0)
+                throw new ExcepcionComandoNoEncontrado(string.Format("El comando \"{0}\" no es reconocido por esta consola.",comando));
+            return -1;
         }
 
     }

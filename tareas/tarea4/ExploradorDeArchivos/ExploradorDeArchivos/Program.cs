@@ -28,7 +28,6 @@ namespace ExploradorDeArchivos
                     {
                         case 0:
                             consola.imprimirHistoria();
-                            Console.WriteLine("hisotia");
                             break;
                         case 1:
                             repetir = false;
